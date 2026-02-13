@@ -1,0 +1,1 @@
+In this project main.c is used to manually configure Timer TCB0 to trigger an interrupt when the count value = 33333. which equates to 10mS with a 3.33MHz clock (20MHz system clock divided by 6 the default prescaler value).  The interrupt service routine ISR(TCB0_INT_vect) counts the number of interrupts and when equal to 50 toggles the BLUE_LED.  The while (1) loop does nothing.

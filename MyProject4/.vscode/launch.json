@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch MyProject4: default",
+            "type": "mplab-core-da",
+            "request": "launch",
+            "project": "MyProject4",
+            "configuration": "default",
+            "stopOnEntry": true,
+            "preLaunchTask": "MyProject4: default - Full Build",
+            "program": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\MyProject4\\out\\MyProject4\\default.elf"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Print_via_serial_ATtiny1616/_build/Print_via_serial_ATtiny1616/default/CMakeFiles/Print_via_serial_ATtiny1616_default_default_XC8_compile.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Print_via_serial_ATtiny1616/_build/Print_via_serial_ATtiny1616/default/CMakeFiles/Print_via_serial_ATtiny1616_default_image_LGuqxJWj.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Print_via_serial_ATtiny1616/_build/Print_via_serial_ATtiny1616/default/CMakeFiles/edit_cache.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Print_via_serial_ATtiny1616/_build/Print_via_serial_ATtiny1616/default/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v6
+15	375	7927016137111828	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/config_bits.c.o	f25333cfb3c91fb5
+22	398	7927016137186827	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/pins.c.o	c7c71ead20545f25
+4	362	7927016137001813	CMakeFiles/MyProject4_default_default_XC8_assemblePreprocess.dir/3080c2d6060654e0341f30288c822bd3/My_MCC_Config/mcc/mcc_generated_files/system/src/protected_io.S.o	2490d858203ef1bd
+19	367	7927016137151830	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/interrupt.c.o	e769e8535dde8fe5
+26	387	7927016137221831	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/system.c.o	96be7d74e220ca86
+10	386	7927016137066838	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/clock.c.o	5c3f9807cac0bad0
+7	389	7927016137036836	CMakeFiles/MyProject4_default_default_XC8_compile.dir/E_/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/My_MCC_Config/mcc/main.c.o	d255a22919db56ab
+398	493	7927016140941858	E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/out/MyProject4/default.elf	6e11a4ef4c135891
+3	302	7927017001525991	CMakeFiles/MyProject4_default_default_XC8_assemblePreprocess.dir/3080c2d6060654e0341f30288c822bd3/My_MCC_Config/mcc/mcc_generated_files/system/src/protected_io.S.o	2490d858203ef1bd
+13	322	7927017001620999	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/config_bits.c.o	f25333cfb3c91fb5
+16	325	7927017001651004	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/interrupt.c.o	e769e8535dde8fe5
+10	329	7927017001591024	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/clock.c.o	5c3f9807cac0bad0
+7	330	7927017001560991	CMakeFiles/MyProject4_default_default_XC8_compile.dir/E_/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/My_MCC_Config/mcc/main.c.o	d255a22919db56ab
+23	340	7927017001721027	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/system.c.o	96be7d74e220ca86
+19	346	7927017001686007	CMakeFiles/MyProject4_default_default_XC8_compile.dir/331c1cc79fafc22717ea847f1de4c86d/MyProject4/My_MCC_Config/mcc/mcc_generated_files/system/src/pins.c.o	c7c71ead20545f25
+346	440	7927017004956014	E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/out/MyProject4/default.elf	6e11a4ef4c135891
+4	251	7927017341722976	CMakeFiles/MyProject4_default_default_XC8_compile.dir/E_/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/My_MCC_Config/mcc/main.c.o	d255a22919db56ab
+251	345	7927017344198006	E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/out/MyProject4/default.elf	6e11a4ef4c135891
+5	270	7927017868232253	CMakeFiles/MyProject4_default_default_XC8_compile.dir/E_/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/My_MCC_Config/mcc/main.c.o	d255a22919db56ab
+270	365	7927017870887258	E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/out/MyProject4/default.elf	6e11a4ef4c135891

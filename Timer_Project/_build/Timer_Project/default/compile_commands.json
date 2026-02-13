@@ -1,0 +1,50 @@
+[
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -IE:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src -c -mcpu=ATtiny1616 -g -gdwarf-2 -x assembler-with-cpp -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -Wa,--defsym=__MPLAB_BUILD=1,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1 -o CMakeFiles\\Timer_Project_default_default_XC8_assemblePreprocess.dir\\33be8b4385ba54807b30896146ef112a\\mcc\\mcc_generated_files\\system\\src\\protected_io.S.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\protected_io.S",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\protected_io.S",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_assemblePreprocess.dir\\33be8b4385ba54807b30896146ef112a\\mcc\\mcc_generated_files\\system\\src\\protected_io.S.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\E_\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\main.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\main.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\main.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\E_\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\main.c.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\clock.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\clock.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\clock.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\clock.c.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\config_bits.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\config_bits.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\config_bits.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\config_bits.c.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\interrupt.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\interrupt.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\interrupt.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\interrupt.c.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\pins.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\pins.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\pins.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\pins.c.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\system.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\system.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\system.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\system.c.o"
+},
+{
+  "directory": "E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATtiny1616__ -D__DEBUG=1 -c -mcpu=ATtiny1616 -gdwarf-2 -x c -mdfp=C:/Users/Steven/.mchp_packs/Microchip/ATtiny_DFP/3.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\timer\\src\\tcb0.c.o -c E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\timer\\src\\tcb0.c",
+  "file": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Timer_Project\\My_MCC_Config\\mcc\\mcc_generated_files\\timer\\src\\tcb0.c",
+  "output": "CMakeFiles\\Timer_Project_default_default_XC8_compile.dir\\a9d6ee7d7709ad1ac376700c90592e13\\My_MCC_Config\\mcc\\mcc_generated_files\\timer\\src\\tcb0.c.o"
+}
+]

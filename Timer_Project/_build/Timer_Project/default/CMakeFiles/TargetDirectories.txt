@@ -1,0 +1,5 @@
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default/CMakeFiles/Timer_Project_default_default_XC8_assemblePreprocess.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default/CMakeFiles/Timer_Project_default_default_XC8_compile.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default/CMakeFiles/Timer_Project_default_image_B3_VpirO.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default/CMakeFiles/edit_cache.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Timer_Project/_build/Timer_Project/default/CMakeFiles/rebuild_cache.dir
