@@ -1,12 +1,12 @@
 /**
  * @file main.c
- * @author Steven
+ * @author Steven Bennett
  * @date 2026-02-13
  * @brief Main function
  */
-int main(){
+int main() {
 
-    // Add your code here and press Ctrl + Shift + B to build
+  // Add your code here and press Ctrl + Shift + B to build
 
-    return 0;
+  return 0;
 }
