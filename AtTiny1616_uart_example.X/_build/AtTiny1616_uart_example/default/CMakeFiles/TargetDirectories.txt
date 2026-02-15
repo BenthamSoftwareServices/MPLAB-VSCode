@@ -1,5 +1,0 @@
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/AtTiny1616_uart_example.X/_build/AtTiny1616_uart_example/default/CMakeFiles/AtTiny1616_uart_example_default_default_XC8_assemblePreprocess.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/AtTiny1616_uart_example.X/_build/AtTiny1616_uart_example/default/CMakeFiles/AtTiny1616_uart_example_default_default_XC8_compile.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/AtTiny1616_uart_example.X/_build/AtTiny1616_uart_example/default/CMakeFiles/AtTiny1616_uart_example_default_image_cgLp512g.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/AtTiny1616_uart_example.X/_build/AtTiny1616_uart_example/default/CMakeFiles/edit_cache.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/AtTiny1616_uart_example.X/_build/AtTiny1616_uart_example/default/CMakeFiles/rebuild_cache.dir
