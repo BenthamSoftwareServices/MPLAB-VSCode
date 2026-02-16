@@ -1,3 +1,4 @@
+// Flash LED using timer TCB0 to generate interrupts
 
 #include "mcc_generated_files/system/system.h"
 #include <avr/interrupt.h>
