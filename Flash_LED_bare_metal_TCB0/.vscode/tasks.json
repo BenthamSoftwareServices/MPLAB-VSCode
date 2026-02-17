@@ -1,0 +1,24 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "MPLAB-CMake",
+			"label": "Flash_LED_bare_metal_TCB0: default - Full Build",
+			"action": "fullbuild",
+			"buildType": "debug",
+			"configName": "default",
+			"configPath": "${workspaceFolder}/.vscode/Flash_LED_bare_metal_TCB0.mplab.json",
+			"problemMatcher": [
+				"$cmakeGenerate",
+				"$cmakeBuildCompiler",
+				"$cmakeBuildLinker",
+				"$xc8Error1",
+				"$xc8Error2",
+				"$nonLineSpecific",
+				"$noSeverity"
+			],
+			"group": "build"
+		},
+		
+	]
+}

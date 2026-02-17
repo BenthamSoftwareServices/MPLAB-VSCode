@@ -1,0 +1,13 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}\\_build\\Flash_LED_bare_metal_TCB0\\default"
+    ],
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ]
+}

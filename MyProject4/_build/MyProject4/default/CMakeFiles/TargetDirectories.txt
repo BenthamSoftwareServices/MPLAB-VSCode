@@ -1,5 +1,0 @@
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/_build/MyProject4/default/CMakeFiles/MyProject4_default_default_XC8_assemblePreprocess.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/_build/MyProject4/default/CMakeFiles/MyProject4_default_default_XC8_compile.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/_build/MyProject4/default/CMakeFiles/MyProject4_default_image_cAtcTWAk.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/_build/MyProject4/default/CMakeFiles/edit_cache.dir
-E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/MyProject4/_build/MyProject4/default/CMakeFiles/rebuild_cache.dir

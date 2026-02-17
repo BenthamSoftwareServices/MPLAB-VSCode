@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Flash_LED_bare_metal_TCB0: default",
+            "type": "mplab-core-da",
+            "request": "launch",
+            "project": "Flash_LED_bare_metal_TCB0",
+            "configuration": "default",
+            "stopOnEntry": true,
+            "preLaunchTask": "Flash_LED_bare_metal_TCB0: default - Full Build",
+            "program": "E:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Flash_LED_bare_metal_TCB0\\out\\Flash_LED_bare_metal_TCB0\\default.elf"
+        }
+    ]
+}
