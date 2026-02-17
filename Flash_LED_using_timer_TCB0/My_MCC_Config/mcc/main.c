@@ -11,7 +11,7 @@ ISR(TCB0_INT_vect) {
   static uint16_t tick_count = 0;
   tick_count++;
 
-  if (tick_count >= 10) { // 10 * 10ms = 100ms
+  if (tick_count >= 50) { // 10 * 10ms = 100ms
     PORTA.OUTTGL = (1 << BLUE_LED_PIN);
     tick_count = 0;
   }

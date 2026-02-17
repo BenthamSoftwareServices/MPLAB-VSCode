@@ -5,14 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch MCC_Test_3: default",
+            "name": "Launch Flash_LED_using_timer_TCB0: default",
             "type": "mplab-core-da",
             "request": "launch",
-            "project": "MCC_Test_3",
+            "project": "Flash_LED_using_timer_TCB0",
             "configuration": "default",
             "stopOnEntry": true,
-            "preLaunchTask": "MCC_Test_3: default - Full Build",
-            "program": "e:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\MCC_Test_3\\out\\MCC_Test_3\\default.elf"
+            "preLaunchTask": "Flash_LED_using_timer_TCB0: default - Full Build",
+            "program": "e:\\Users\\Steven\\Documents\\GitHub\\MPLAB-VSCode\\Flash_LED_using_timer_TCB0\\out\\Flash_LED_using_timer_TCB0\\default.elf"
         }
     ]
 }

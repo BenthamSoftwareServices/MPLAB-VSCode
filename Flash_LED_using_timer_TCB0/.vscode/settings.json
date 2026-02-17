@@ -1,6 +1,6 @@
 {
     "mplab.clangd.arguments": [
-        "--compile-commands-dir=${workspaceFolder}\\_build\\MCC_Test_3\\default"
+        "--compile-commands-dir=${workspaceFolder}\\_build\\Flash_LED_using_timer_TCB0\\default"
     ],
     "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
     "C_Cpp.intelliSenseEngine": "disabled",

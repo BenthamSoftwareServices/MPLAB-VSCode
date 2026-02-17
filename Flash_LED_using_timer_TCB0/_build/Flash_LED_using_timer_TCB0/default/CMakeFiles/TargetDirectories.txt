@@ -1,0 +1,5 @@
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Flash_LED_using_timer_TCB0/_build/Flash_LED_using_timer_TCB0/default/CMakeFiles/Flash_LED_using_timer_TCB0_default_default_XC8_assemblePreprocess.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Flash_LED_using_timer_TCB0/_build/Flash_LED_using_timer_TCB0/default/CMakeFiles/Flash_LED_using_timer_TCB0_default_default_XC8_compile.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Flash_LED_using_timer_TCB0/_build/Flash_LED_using_timer_TCB0/default/CMakeFiles/Flash_LED_using_timer_TCB0_default_image_zDgvXVxY.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Flash_LED_using_timer_TCB0/_build/Flash_LED_using_timer_TCB0/default/CMakeFiles/edit_cache.dir
+E:/Users/Steven/Documents/GitHub/MPLAB-VSCode/Flash_LED_using_timer_TCB0/_build/Flash_LED_using_timer_TCB0/default/CMakeFiles/rebuild_cache.dir
